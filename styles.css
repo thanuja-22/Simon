@@ -1,0 +1,82 @@
+::selection{
+
+}
+
+body{
+background-color: #283149;
+color:#fff;
+text-align: center;
+}
+h1
+{
+  font-family: 'Press Start 2P', cursive;
+  text-align: center;
+  padding-top:50px;
+  padding-bottom: 50px;
+}
+#green
+{
+  width:190px;
+  height:190px;
+  border:10px solid black;
+  border-radius: 40px;
+  background-color: green;
+  display: inline-block;
+  margin-right: 40px;
+  color:green;
+}
+#red
+{
+  width:190px;
+  height:190px;
+  border:10px solid black;
+  border-radius: 40px;
+  background-color: red;
+  color:red;
+  display:inline-block;
+}
+#yellow
+{
+  width:190px;
+  height:190px;
+  border:10px solid black;
+  border-radius: 40px;
+  background-color: yellow;
+  color:yellow;
+  display:inline-block;
+  margin-right: 40px;
+}
+#blue
+{
+    width:190px;
+    height:190px;
+    border:10px solid black;
+    border-radius: 40px;
+    background-color: blue;
+    color:blue;
+    display:inline-block;
+}
+#container
+{
+  width: 40%;
+  margin:20px auto 20px auto;
+}
+.row
+{
+    margin:50px 50px 50px 50px;
+}
+.pressed
+{
+  box-shadow:4px 3px 2px #fff;
+  opacity:0.7;
+}
+
+.endGame
+{
+  background-color: red;
+  opacity: 0.5;
+}
+h2{
+  font-family: 'Press Start 2P', cursive;
+  text-align: center;
+}
